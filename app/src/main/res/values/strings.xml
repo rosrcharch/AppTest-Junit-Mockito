@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teste unitario</string>
+    <string name="text_hello_word">HELLO WORLD!</string>
+</resources>
